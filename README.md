@@ -24,10 +24,10 @@ Overview
     |- README          # the top level description of content
 
 
-[Plot01](results/figures/excel_data_collector.png)
-[Plot02](results/figures/cacha.png)
-[Plot03](results/figures/quites.png)
-[Plot04](results/figures/inicio.png)
+![Plot01](results/figures/excel_data_collector.png)
+![Plot02](results/figures/cacha.png)
+![Plot03](results/figures/quites.png)
+![Plot04](results/figures/inicio.png)
 
 
 How to use
