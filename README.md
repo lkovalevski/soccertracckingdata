@@ -1,11 +1,11 @@
 # soccertracckingdata
-Esta fue una prueba para armar una herramienta (en Excel, usando Visual Basic) para recolectar información en vivo de un partido de futbol.
+
 
 
 Overview
 --------
 
-    proyecto
+    project
     |- doc/            # documentacion del estudio
     |  |- articles/    # related articles, reviews 
     |  +- paper/       # manuscript(s), whether generated or not
@@ -25,12 +25,15 @@ Overview
 
 
 ![Plot01](results/figures/excel_data_collector.png)
-![Plot02](results/figures/cacha.png)
-![Plot03](results/figures/quites.png)
-![Plot04](results/figures/inicio.png)
+
+![Plot02](results/figures/soccer_field.png)
+
+![Plot03](results/figures/ball_recovery.png)
+
+![Plot04](results/figures/summary.png)
 
 
 How to use
 ----------
 
-Se ejecuta el archivo 'ejecutarAnalisisTexto.R' en el directorio raíz y los resultados del análisis se guardan enel archivo 'analisisTexto_yyyy-mm-dd.html' de la carpeta 'results'. 
+To be completed...
