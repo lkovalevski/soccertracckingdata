@@ -7,7 +7,8 @@ df <- read.csv(
   file   = file.path(data_path, data_name), 
   sep    = ";", 
   dec    = ",",
-  header = FALSE
+  header = FALSE, 
+  skip   = 1
 )
 head(df)
 
