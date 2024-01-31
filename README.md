@@ -30,9 +30,9 @@ Overview
 
 ![Plot03](results/figures/graph01.png)
 
-![Plot04](results/figures/graph02.png)
+![Plot04](results/figures/graph2.png)
 
-![Plot05](results/figures/graph03.png)
+![Plot05](results/figures/graph3.png)
 
 
 How to use
