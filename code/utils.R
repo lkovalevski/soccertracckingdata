@@ -29,7 +29,7 @@ generate_soccer_field <- function(){
     theme(panel.background = element_rect(fill = 'palegreen1', colour = 'lawngreen')) + # background color
     theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank()) +    
     annotate("text", x = Inf, y = -Inf, label = "@leokova",
-             hjust=1.7, vjust=-1, col="grey80", cex=10,
+             hjust=2.1, vjust=-1.3, col="grey80", cex=10,
              fontface = "bold", alpha = 0.5)+
     geom_point(data = data.frame(x = 50, y = 50), aes(x, y),colour = "ghostwhite", size = 4)
 }

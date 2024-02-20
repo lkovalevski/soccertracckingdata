@@ -28,9 +28,11 @@ Overview
 
 ![Plot02](results/figures/soccer_field.png)
 
-![Plot03](results/figures/ball_recovery.png)
+![Plot03](results/figures/graph01.png)
 
-![Plot04](results/figures/summary.png)
+![Plot04](results/figures/graph2.png)
+
+![Plot05](results/figures/graph3.png)
 
 
 How to use

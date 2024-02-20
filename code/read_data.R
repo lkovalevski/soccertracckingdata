@@ -7,16 +7,22 @@ df <- read.csv(
   file   = file.path(data_path, data_name), 
   sep    = ";", 
   dec    = ",",
-  header = FALSE, 
-  skip   = 1
+  header = FALSE#, skip   = 1
 )
+df <- df[df$V3 != "", ]
 head(df)
 
 
-
 # Read positions reference data
-pos <- read.csv(
+df_pos <- read.csv(
   file = file.path(data_path, pos_name), 
+  sep = ";", 
+  dec = ","
+)
+
+# Read starting  lay data
+df_ini <- read.csv(
+  file = file.path(data_path, ini_name), 
   sep = ";", 
   dec = ","
 )
@@ -37,6 +43,6 @@ df <- df %>% mutate(
   
 )
 
-return( list( df = df, pos = pos ) )
+return( list( df = df, df_pos = df_pos, df_ini = df_ini) )
 }
 
