@@ -167,19 +167,3 @@ graph03 <- soccer_field +
 
 ggsave("graph3.png", graph03, width = 17.5, height = 10)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

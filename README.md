@@ -1,7 +1,6 @@
 # soccertracckingdata
 
 
-
 Overview
 --------
 
@@ -33,9 +32,3 @@ Overview
 ![Plot04](results/figures/graph2.png)
 
 ![Plot05](results/figures/graph3.png)
-
-
-How to use
-----------
-
-To be completed...

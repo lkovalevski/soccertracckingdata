@@ -45,4 +45,3 @@ df <- df %>% mutate(
 
 return( list( df = df, df_pos = df_pos, df_ini = df_ini) )
 }
-
